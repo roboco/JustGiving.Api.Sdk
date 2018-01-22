@@ -1,0 +1,9 @@
+{
+    "name": "roboco/justgiving",
+    "description": "Connector class to use just giving API",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "license": "MIT"
+}
