@@ -1,13 +1,3 @@
 # VS Bits
-DotNet/src/JustGiving.Api.*/bin
-DotNet/src/JustGiving.Api.*/obj
-DotNet/tests/*.*
-DotNet/tests/**/*.config
-DotNet/tests/**/*
-*.dotCover
-*.suo
-logs
-DotNet/TestResult.xml
-# ReSharper
-_ReSharper.*
-*.user
+test.php
+.idea
